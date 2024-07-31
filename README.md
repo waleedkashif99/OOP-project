@@ -1,2 +1,2 @@
 # OOP-project
-test1
+This C++ program manages password generation, encryption, and administration for users classified as Admin or Faculty. It features classes for generating random or manual passwords, encrypting/decrypting passwords using XOR encryption, and storing passwords in a file. Admins can view and change all passwords, while faculty members can generate and encrypt them. The program includes file operations to save passwords and provides a command-line interface for user interaction
